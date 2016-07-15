@@ -1,0 +1,11 @@
+.DS_Store
+.mp4
+.ogv
+.sass-cache
+.tmp
+.webm
+bower_components
+dev/scripts/vendor
+dist
+node_modules
+test/bower_components
